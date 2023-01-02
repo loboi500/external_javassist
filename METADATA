@@ -1,18 +1,3 @@
-name: "javassist"
-description:
-    "Java bytecode engineering toolkit"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://www.javassist.org/"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/jboss-javassist/javassist.git"
-  }
-  version: "rel_3_27_0_ga"
-  last_upgrade_date { year: 2020 month: 9 day: 10 }
-  // The project can be licensed under one of MPL, LGPL or AL, and Apache 2.0 is a "notice" license.
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d828e80d4e510945378d9d98a48cbb0dad986073eae0e9c5c20dcf395627b33
+size 450
